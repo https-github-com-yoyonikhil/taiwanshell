@@ -1,0 +1,2 @@
+# taiwanshell
+only for taiwan
